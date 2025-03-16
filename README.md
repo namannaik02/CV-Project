@@ -71,5 +71,5 @@ Enhance segmentation precision with Transformer-based models.
 
 ## **🏆 Contributors**
 👨‍💻 Contributor 1 – Nitin Kumar Rajput
-👩‍💻 Contributor 3 – Naman Naik
+👩‍💻 Contributor 2 – Naman Naik
 
